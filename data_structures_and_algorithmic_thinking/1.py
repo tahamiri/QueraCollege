@@ -8,6 +8,7 @@ sequence_length,question_count = int(a), int(b)
 
 input_str2 = input()
 
+
 v = input_str2.split()
 
 values = [int(i) for i in v]
